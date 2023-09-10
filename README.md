@@ -14,3 +14,4 @@
 - Postman. [Trello](https://github.com/VeronikaKonovalova/VerTesting/tree/main/Postman.Trello). Коллекция, в которой тестируется создание,удаление и изменение досок, списков и карточек на сайте [Trello](https://trello.com/).
 - [SOAPUI](https://github.com/VeronikaKonovalova/VerTesting/blob/main/SOAP/soap). Используя WSDL приложения API Яндекс.Спеллера, отправить запрос методом checkTexts на проверку 5 сообщений, которые прислали друзья или коллеги. Цель - проверить орфографию.
 - Нагрузочное тестирование через [Apache JMeter](https://github.com/VeronikaKonovalova/VerTesting/blob/main/Apache/Documentation.md). 
+- Работа в [SQL](https://github.com/VeronikaKonovalova/VerTesting/blob/main/SQL/1).
